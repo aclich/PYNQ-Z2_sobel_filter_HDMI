@@ -1,4 +1,4 @@
-# PYNQ-Z2 accelerating sobel filter on USB to HDMI vidoer sreaming.
+# PYNQ-Z2 accelerating sobel filter on USB to HDMI vid sreaming.
 Building a sobel filter accelerator and filter the streaming video from USB camera to HDMI
 
 Board: PYNQ-Z2
